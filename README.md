@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Marek Marecki</h1
-    <p>Marek Marecki <a href="http://www.marek-marecki.com">www.marek-marecki.com</a>.</p>
+    <p>Marek Marecki <a href="[http://www.marek-marecki.com](https://github.com/232299/wizytowka.github.io/blob/main/zdjecia.html)">zdjecua</a>.</p>
     <p>Aby dowiedzieć się więcej o innych artystach, odwiedź naszą <a href="druga-strona.html">drugą stronę</a>.</p>
 </body>
 </html>
